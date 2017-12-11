@@ -1,11 +1,11 @@
-# Aula 1 - [Introdução] (http://player.balta.io/#/login)
+# Aula 1 - Introdução
 
  Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
  **00:24:33 Explicação das pastas de uma aplicação Web API**
  *00:32:00 Odata*
  **_00:38:00 Definir o verbo de retorno [HttpGet], [HttpPost], [HttpDelete]_** 
  00:54:00 Interface base para as classes (muito boa, melhor que as outras)
- 01:09:00 Desabilitando Lazy Loading e Proxy
+ 01:09:00 Desabilitando [Lazy Loading] (www.blesssoft.com.br) e Proxy
  01:12:25 Mapeamento no EF
  01:25:20 using System.Data.Entity; para poder usar o Include com lambda expressions
  01:51:40 Alterando os serializadores

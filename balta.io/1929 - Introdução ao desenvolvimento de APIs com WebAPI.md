@@ -1,4 +1,4 @@
-#Aula 1 - Introdução
+# Aula 1 - Introdução
 
  Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
  00:24:33 Explicação das pastas de uma aplicação Web API
@@ -10,7 +10,7 @@
  01:25:20 using System.Data.Entity; para poder usar o Include com lambda expressions
  01:51:40 Alterando os serializadores
 
-#Aula 2 - Imersão
+# Aula 2 - Imersão
  00:05:00 Retorno de HttpStatusCode
  00:11:00 HttpMessage
  00:15:10 Melhor fluxo de trabalho para o retorno com HttpMessages e try..catch

@@ -1,9 +1,9 @@
 # Aula 1 - Introdução
 
  Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
- 00:24:33 Explicação das pastas de uma aplicação Web API
- 00:32:00 Odata
- 00:38:00 Definir o verbo de retorno [HttpGet], [HttpPost], [HttpDelete]
+ **00:24:33 Explicação das pastas de uma aplicação Web API**
+ *00:32:00 Odata*
+ **_00:38:00 Definir o verbo de retorno [HttpGet], [HttpPost], [HttpDelete]_** 
  00:54:00 Interface base para as classes (muito boa, melhor que as outras)
  01:09:00 Desabilitando Lazy Loading e Proxy
  01:12:25 Mapeamento no EF
@@ -19,7 +19,7 @@
  00:44:00 Padrozinando rotas
 
  00:54:43 Performance
- 00:56:00 Injeçao de dependencias
+ 00:56:00 `Injeçao de dependencias `
 !01:15:00 Dicas sobre como trabalhar com ADO em repositórios
 
  02:06:00 Segurança

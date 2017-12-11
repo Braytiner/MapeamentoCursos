@@ -11,7 +11,9 @@ A colaboração de todos é muito bem vinda, pois quanto mais cursos mapeados, m
   - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   - [Line breaks in Markdown](https://gist.github.com/shaunlebron/746476e6e7a4d698b373)
   
-É recomendável separar o conteúdo de cada autor ou canal em pastas e dentro das mesmas os arquivos com os títulos dos cursos. Para que o Markdown funcione é necessário salvar os arquivos com a extensão `.md`
+É recomendável separar o conteúdo de cada autor ou canal em pastas e dentro das mesmas os arquivos com os títulos dos cursos. Para que o Markdown funcione é necessário salvar os arquivos com a extensão `.md`  
+
+Você pode fazer o fork do projeto, criar os arquivos e seu conteúdo, fazer o commit das alterações e abrir um pull request diretamente aqui no GitHub, o que torna a ferramenta fácil de ser utilizada.
 
 Caso não esteja familiarizado com a utilização do Git, recomendamos assistir o [Curso básico de Git](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0) disponibilizado pelo canal [RbTech](https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ)  
 

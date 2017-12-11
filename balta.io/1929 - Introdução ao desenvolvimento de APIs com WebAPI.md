@@ -2,8 +2,8 @@
 
 - [ ] Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
 
-00:24:33 Explicação das pastas de uma aplicação Web API
-00:32:00 Odata
+- 00:24:33 Explicação das pastas de uma aplicação Web API
+- 00:32:00 Odata
 
 00:38:00 Definir o verbo de retorno \[HttpGet], \[HttpPost], \[HttpDelete]
 00:54:00 Interface base para as classes (muito boa, melhor que as outras)

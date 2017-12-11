@@ -21,7 +21,7 @@
 
 00:54:43 Performance  
 00:56:00 Injeção de dependências  
-**[01:15:00 Dicas sobre como trabalhar com ADO em repositórios]**  
+** [01:15:00 Dicas sobre como trabalhar com ADO em repositórios] **  
 
 02:06:00 Segurança  
 02:07:00 Criando um atributo para trabalhar com autenticação  

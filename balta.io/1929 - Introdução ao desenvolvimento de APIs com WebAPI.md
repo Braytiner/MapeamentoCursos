@@ -1,4 +1,4 @@
-[# Aula 1 - Introdução] (http://player.balta.io/#/login)
+# Aula 1 - [Introdução] (http://player.balta.io/#/login)
 
  Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
  **00:24:33 Explicação das pastas de uma aplicação Web API**

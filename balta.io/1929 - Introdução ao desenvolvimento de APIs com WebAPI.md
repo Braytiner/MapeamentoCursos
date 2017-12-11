@@ -16,7 +16,7 @@
  00:15:10 Melhor fluxo de trabalho para o retorno com HttpMessages e try..catch
  00:28:10 Padronizando propriedades dos objetos
  00:34:13 Ensinando como trabalhar com ViewModel em uma camada acima da camada de dados (Infra/Data) para retornar um campo virtual que  concatene PrimeiroNome e SobreNome, também mostra como trabalhar com uma propriedade no Domain, não mapeada no banco para tal
- 00:44:00 Padrozinando rotas
+ 00:44:00 Padronizando rotas
 
  00:54:43 Performance
  00:56:00 Injeçao de dependencias

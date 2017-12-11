@@ -1,8 +1,4 @@
 # Aula 1 - Introdução
-## Aula 1 - Introdução
-### Aula 1 - Introdução
-##### Aula 1 - Introdução
-###### Aula 1 - Introdução
 
  Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
  00:24:33 Explicação das pastas de uma aplicação Web API

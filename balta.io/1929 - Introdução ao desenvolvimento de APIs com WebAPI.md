@@ -1,6 +1,8 @@
 # Aula 1 - Introdução
 
 - [ ] Fiddler e Postman, PageSpeed Insights (extensao do Chrome)
+jdfhsdajfhsjkahfsadhfsd
+asdhjsdhjsdhajdhajsdh
 
 - 00:24:33 Explicação das pastas de uma aplicação Web API
 - 00:32:00 Odata

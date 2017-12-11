@@ -30,4 +30,4 @@ asdhjsdhjsdhajdhajsdh
 02:07:00 Criando um atributo para trabalhar com autenticação
 02:37:00 Como validar o modelo no WebApi (ModelState.IsValid)
 
-02:42:00 Deploy
+02:42:00 Deploya
